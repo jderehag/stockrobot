@@ -1,0 +1,7 @@
+###################
+# Compiled sources
+###################
+*.pyc
+
+# Database files
+*.db

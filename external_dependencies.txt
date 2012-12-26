@@ -1,0 +1,11 @@
+1. pycurl
+	For downloading webpages, very fast -  http://pycurl.sourceforge.net/
+
+2. BeautifulSoup
+	wrapper for html parsers - http://www.crummy.com/software/BeautifulSoup/
+	
+3. lxml
+	html parser, very fast and fairly lenient - http://lxml.de/
+	
+4. numpy
+	Numerical python, used for histogram - http://sourceforge.net/projects/numpy/files/
